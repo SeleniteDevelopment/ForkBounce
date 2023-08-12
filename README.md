@@ -41,6 +41,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [LiquidPlus Modified](LiquidPlus-Modified/output_yTWEr2.tar.gz)
 - [LiquidSense++++](LiquidSense++++/README.md)
 - [LiquidSense](LiquidSense/LiquidSense-b5.2.jar)
+- LRQ aka. Yeion: [in 0.9s Crack](LRQ%28Yeion%29/LRQ%20Cracked%20in%200.9s.jar), [Source Code](LRQ%28Yeion%29/LRQ-OpenSource.zip), [Leak](LRQ%28Yeion%29-Leak-Crack-OpenSource.zip)
 - [Night X](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/Night%20X/README.md)
 - Noteless: [All files](Noteless/)
 - [Other Forks](Other/)
