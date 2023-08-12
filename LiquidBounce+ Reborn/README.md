@@ -1,21 +1,28 @@
 <div align="center">
     
-# LiquidBounce+ Reborn(Unofficial)
+# LiquidBounce+ Reborn
 
-The End Of Legacy
+The contiunation of LiquidBounce+ Legacy
 
 A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
-### LiquidBounce+ Reborn contact info
-Discord: https://discord.gg/BrXGxGeY8r \
-Website: https://liquidbounceplusreborn.github.io/ \
-Releases: https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn/releases
+
+Based on LiquidBounce and LiquidBouncePlus projects
+
+### Download Links
+[Releases](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn/releases) | 
+[Source code](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn/) |
+[Nightly Releases](https://liquidbounceplusreborn.github.io/)
+
+### Project contact info
+[Discord](https://discord.gg/BrXGxGeY8r) |
+[Website](https://liquidbounceplusreborn.github.io/)
 
 ### LiquidBounce's contact info
-Website: https://liquidbounce.net \
-Forum: https://forums.ccbluex.net \
-Guilded: https://www.guilded.gg/CCBlueX \
-YouTube: https://youtube.com/CCBlueX \
-Twitter: https://twitter.com/CCBlueX 
+[Website](https://liquidbounce.net) |
+[Forum](https://forums.ccbluex.net) |
+[Guilded](https://www.guilded.gg/CCBlueX) |
+[YouTube](https://youtube.com/CCBlueX) |
+[Twitter](https://twitter.com/CCBlueX) 
 </div>
 
 ## License
