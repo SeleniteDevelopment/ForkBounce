@@ -37,7 +37,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - LiKingSense: [Crack](LiKingSense/LiKingSense-crack.jar), [Deobfuscated jar file](LiKingSense/LiKingSense-deobf.jar), [Source code](LiKingSense/LiKingSense-opensource.zip)
 - [LiquidBounce+ Reborn](LiquidBounce%2B%20Reborn/README.md)
 - [LiquidBounce++](LiquidBounce%2B%2B/README.md)
-- [LiquidBounce+](LiquidBounce+/README.md)
+- [LiquidBounce+](LiquidBounce+/README.md) 
 - [LiquidDrip](LiquidDrip/README.md)
 - [LiquidPlus Modified](LiquidPlus-Modified/output_yTWEr2.tar.gz)
 - [LiquidSense++++](LiquidSense++++/README.md)
@@ -51,10 +51,10 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [Project Ace](ProjectAce/Project_Ace.jar)
 - [RedBone](RedBone/RedBone%20Crack%200501.jar)
 - RedStar: [Crack](RedStar/RedStar-1.0-cracked.jar), [Open Source](RedStar/RedStar-2.0-OpenSource.zip)
-- [RelaxedClient](https://git.disroot.org/CatsPnewed/Forkbounce.Archive/src/branch/main/Relaxed/Relaxed.Client1.12.2-Cracked.jar) (1.12.2)
+- [RelaxedClient](Relaxed/Relaxed.Client1.12.2-Cracked.jar) (1.12.2)
 - [Sweet Client](Sweet/Sweet%201.07%20Crack.jar)
 - TomK: [All Files](TomK/)
-- [TrollSense](https://github.com/CatsPnewed1337/ForkBounce-Archive/blob/main/TrollSense/README.md)
+- [TrollSense](TrollSense/README.md)
 - [VisionFX Build](VisionFX/VisionFX-Build.jar)
 - Wake: [All Files](Wake/)
 - Warrior: [All Cracks](Warrior/)
@@ -62,3 +62,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - [XiaodaBounce](XiaodaBounce/XiaodaBounce-New-Cracked.jar)
 - [aeon](aeon/aeon%20v2%20Crack.jar)
 - [dusksense](dusksense/dusksense%20-%20C.jar)
+
+
+### Thanks to
+All authors of their custom builds
