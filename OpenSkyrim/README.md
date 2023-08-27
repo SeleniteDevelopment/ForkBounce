@@ -1,6 +1,8 @@
 # OpenSkyrim
 A free mixin-based injection hacked-client using Minecraft Forge based on LiquidBounce for HuaYuTing server, supporting version 1.12.2.
 
+Source code: [There](https://github.com/Paim0nMinecraft/OpenSkyrim/tree/master) \
+Releases: [There](https://github.com/Paim0nMinecraft/OpenSkyrim/releases)
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/PaimonMinecraft/OpenSkyrim/issues).
