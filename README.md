@@ -30,7 +30,7 @@ FakeBounce repo is no longer updatable, so we created fork of that repository
 - ChelunBounce: [Crack](ChenlunBounce/ChenlunBounce%20Cracked.jar) & [Source Code](ChenlunBounce/ChenlunBounce-SRC.zip)
 - [ChristmasAce](ChrismasAce/ChrismasAce%20Cracked.jar)
 - [CloudSense](Cloudsense/Cloudsense0220%20-%20C.jar)
-- ColorByte: []
+- ColorByte: [b1.5 Dev](ColorByte/colorbyte-1.5-dev%20build%20cracked.jar),[b1.7 Dev](ColorByte/colorbyte-1.7-dev%20build%20cracked.jar)
 - [CrazyBounce](CrazyBounce/CrazyBounce%20Crack.jar)
 - [Ctrl](Ctrl/Ctrl-b17-Cracked.jar)
 - [DayZay](DayZay/README.md)
