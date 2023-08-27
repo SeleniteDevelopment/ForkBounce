@@ -4,9 +4,9 @@
 ![GitHub lines of code](https://tokei.rs/b1/github/fdpclassic/FDPclassic)
 ![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen)  
 A free mixin-based injection hacked-client for Minecraft using Minecraft Forge based on LiquidBounce.
+
 Website: https://fdpinfo.github.io \
 Latest: [github-actions](https://github.com/fdpclassic/FDPClassic/actions/workflows/build.yml?query=event%3Apush) \ 
-
 Also Latest: https://fdpinfo.github.io/download \
 Discord: https://discord.gg/55x7TaHWXG     (ping gatodepan#6386 for support with classic) \
 Repository: https://github.com/fdpclassic/FDPClassic/
