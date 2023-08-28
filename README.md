@@ -1,53 +1,81 @@
-# LiquidBounce+ (Officially Discontinued.)
+<div align="center">
 
-A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
-### Thank you.
+# ForkBounce-Archive
+Fork of FakeBounce Killer repo, collection of public (or not) custom builds.
+## Malware warning
+Forks of LiquidBounce project can have **trojans**, **malware** or **R.A.T** (Remote access trojan). If you found something in one of this custom builds / forks, please create issue in this repository or contact with me. Please don't send proofs like virustotal scan or other anti-malware. Please send screenshot of source with malware code
 
-No long shit, I just want to say thank you to everyone. Final build [there](https://github.com/CatsPnewed1337/ForkBounce-Archive/raw/main/LiquidBounce%2B/liquidbounceplus-final.jar)
-### LiquidBounce's contact info
+## License warning
+ Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
+ 
+Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
+GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-Website: https://liquidbounce.net \
-Forum: https://forums.ccbluex.net \
-Guilded: https://www.guilded.gg/CCBlueX \
-YouTube: https://youtube.com/CCBlueX \
-Twitter: https://twitter.com/CCBlueX
-### License
 
-This project is subject to the GNU General Public License v3.0. This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
 
-For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice nor legally binding.
+### Reason of fork
+FakeBounce repo is no longer updatable, so we created fork of that repository
+</div>
 
-You are allowed to
 
-    use
-    share
-    modify
-
-this project entirely or partially for free and even commercially. However, please consider the following:
-
-    You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated) application.
-    Your modified application must also be licensed under the GPL.
-
-Do the above and share your source code with everyone; just like we do.
-Setting up a Workspace
-
-LiquidBounce+ is using Gradle, so make sure that it is installed properly. Instructions can be found on Gradle's website.
-
-    Clone the repository using git clone https://github.com/WYSI-Foundation/LiquidBouncePlus/.
-
-    CD into the local repository folder.
-
-    Depending on which IDE you are using execute either of the following commands:
-        For IntelliJ: gradlew setupDevWorkspace idea genIntellijRuns build
-        For Eclipse: gradlew setupDevWorkspace eclipse build
-
-    (you can add -debug right after gradlew if you want to enable debug logging.)
-
-    Open the folder as a Gradle project in your IDE.
-
-    Select the default run configuration.
-
-## Additional libraries
-### Mixins
-
-Mixins can be used to modify classes at runtime before they are loaded. LiquidBounce+ is using it to inject its code into the Minecraft client. This way, we do not have to ship Mojang's copyrighted code. If you want to learn more about it, check out its Documentation.
+### Forks List:
+- AimWhere: [.jar File](AimWhere/AimWhere-050521.jar)
+- AtField: [Source Code](AtField/AtField-1.3-OpenSource.zip), [Deobfuscated jar](AtField/AtField-v1.3-deobf.jar), [Cracked jar](AtField/AtFiled%201.3%20Cracked.jar)
+- Aurora: [Crack b3.1](Aurora/Aurora%20b3.1-Cracked.jar)
+- Autumn: [Crack](Autumn0811%20Cracked.zip)
+- BackStab: [Download](BackStab/backstab.zip)
+- [BestNub's LiquidBounce](BestNub's%20LB/README.md)
+- [BurnSense](Burnsense/README.md)
+- CatBounce: [Crack](CatBounce/catbounce.zip)
+- ChelunBounce: [Crack](ChenlunBounce/ChenlunBounce%20Cracked.jar) & [Source Code](ChenlunBounce/ChenlunBounce-SRC.zip)
+- [ChristmasAce](ChrismasAce/ChrismasAce%20Cracked.jar)
+- [CloudSense](Cloudsense/Cloudsense0220%20-%20C.jar)
+- ColorByte: [b1.5 Dev](ColorByte/colorbyte-1.5-dev%20build%20cracked.jar),[b1.7 Dev](ColorByte/colorbyte-1.7-dev%20build%20cracked.jar)
+- [CrazyBounce](CrazyBounce/CrazyBounce%20Crack.jar)
+- [Ctrl](Ctrl/Ctrl-b17-Cracked.jar)
+- [DayZay](DayZay/README.md)
+- Demon Client: [V0.2 Public](Demon/Demon%20v0.2%20.rar) (Use translator in instructions)
+- DineTire: [Free](DineTire_FREE.jar) & [Latest leaked (b2)](DineTire/DineTire-b2.jar)
+- [EvoBounce](EvoBounce/EvoBouncev4-1.jar)
+- [ExSense](ExSense/EX10.16Fix.zip)
+- [FDP China](FDP%20China/README.md)
+- [FDP Client](FDP%20Client/README.md)
+- [Glass Client]()
+- Glory: [Glory0624](Glory/glory0624Cracked.jar)
+- [H2W]()
+- [HazelSense](HazelSense/hazelsense.cracked.by.asiangirl.jar)
+- [Hreith](Hreith/Hreith%20-%20C.jar)
+- [KainoSense](KainoSense/README.md)
+- [LavaBounce](Lavabounce/README.md)
+- LiKingSense: [Crack](LiKingSense/LiKingSense-crack.jar), [Deobfuscated jar file](LiKingSense/LiKingSense-deobf.jar), [Source code](LiKingSense/LiKingSense-opensource.zip)
+- [LiquidBounce+ Reborn](LiquidBounce%2B%20Reborn/README.md)
+- [LiquidBounce++](LiquidBounce%2B%2B/README.md)
+- [LiquidBounce+](LiquidBounce+/README.md) 
+- [LiquidDrip](LiquidDrip/README.md)
+- [LiquidLose](LiquidLose/LiquidLose.jar)
+- [LiquidPlus Modified](LiquidPlus-Modified/output_yTWEr2.tar.gz)
+- [LiquidSense++++](LiquidSense++++/README.md)
+- [LiquidSense](LiquidSense/LiquidSense-b5.2.jar)
+- LRQ aka. Yeion: [in 0.9s Crack](LRQ%28Yeion%29/LRQ%20Cracked%20in%200.9s.jar), [Source Code](LRQ%28Yeion%29/LRQ-OpenSource.zip), [Leak](LRQ%28Yeion%29-Leak-Crack-OpenSource.zip)
+- [Moral Client](MoralClient/MoralClient%20230704%20Cracked%20by%20%E9%A3%8E%E7%BE%BD.jar)
+- [Night X](Night%20X/README.md)
+- Noteless: [All files](Noteless/)
+- NullClient: [First Crack](NullClient/null%20client%20b24%20cracked%20by%20%E8%96%9B%E5%AE%9D%E9%92%97.jar), [Second Crack](NullClient/null-%5Bhyt-4v4-2v2-1v1%5D93.0.rar)
+- [Other Forks](Other/)
+- PasacZ: [B3 Crack](PasacZ/PasacZ-b3-Cracked.jar) & [v1.0.1](PasacZ/PasacZ-v1.0.1.zip)
+- [Project Ace](ProjectAce/Project_Ace.jar)
+- [RedBone](RedBone/RedBone%20Crack%200501.jar)
+- RedStar: [Crack](RedStar/RedStar-1.0-cracked.jar), [Open Source](RedStar/RedStar-2.0-OpenSource.zip)
+- [RelaxedClient](Relaxed/Relaxed.Client1.12.2-Cracked.jar) (1.12.2)
+- [Sweet Client](Sweet/Sweet%201.07%20Crack.jar)
+- TomK: [All Files](TomK/)
+- [TrollSense](TrollSense/README.md)
+- [VisionFX Build](VisionFX/VisionFX-Build.jar)
+- Wake: [All Files](Wake/)
+- Warrior: [All Cracks](Warrior/)
+- [Water](Water/Water%20b6%20Crack.jar)
+- WindX: [All Leaks](WindX/)
+- [XiaodaBounce](XiaodaBounce/XiaodaBounce-New-Cracked.jar)
+- YingDaoSense: [Crack](YingdaoSense/yingdaosense%230603cracked.jar)
+- [aeon](aeon/aeon%20v2%20Crack.jar)
+- [dusksense](dusksense/dusksense%20-%20C.jar)
