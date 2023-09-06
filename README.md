@@ -5,6 +5,14 @@ Fork of FakeBounce Killer repo, collection of public (or not) custom builds.
 ## Malware warning
 Forks of LiquidBounce project can have **trojans**, **malware** or **R.A.T** (Remote access trojan). If you found something in one of this custom builds / forks, please create issue in this repository or contact with me. Please don't send proofs like virustotal scan or other anti-malware. Please send screenshot of source with malware code
 
+### Contributing
+
+You can contact me by something from [here](https://e-z.bio/cp404). Or you can fork this repository, do some changes and make pull request to this repository.
+
+## Issues
+
+If you have some issues with one of this custom bulds, please create issue in this repository or contact to me.
+
 ## License warning
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
  
