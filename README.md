@@ -1,33 +1,38 @@
 <div align="center">
 
-# ForkBounce-Archive
-Fork of FakeBounce Killer repo, collection of public (or not) custom builds.
-## Malware warning
-Forks of LiquidBounce project can have **trojans**, **malware** or **R.A.T** (Remote access trojan). If you found something in one of this custom builds / forks, please create issue in this repository or contact with me. Please don't send proofs like virustotal scan or other anti-malware. Please send screenshot of source with malware code
+# ForkBounce Archive
+Fork of FakeBounce Killer repository. \
+It's represents collection of public (or not) custom builds I found on Internet or archived by own.
+
+### License warning
+ Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, \
+ which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source code**.
+ 
+Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
+GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.html \
+If you see there any **closed source code** liquidbounce fork there, it **doesn't means** I support it.
+
+### Malware warning
+Forks of LiquidBounce project can have **trojans**, **malware** or **R.A.T** (Remote access trojan).\
+ If you found something in one of this custom builds / forks, please create issue in this repository or contact with me.\
+Please don't send proofs like VirusTotal scan or other AV, they ofthen have false detections. \
+Please send screenshot of source with malware code
+
+### Issues
+
+If you have some issues with one of this custom bulds, please create issue in this repository. \
+Or you can contact to me by any of methods [here](https://e-z.bio/cp404)
+</div>
 
 ### Contributing
 
-You can contact me by something from [here](https://e-z.bio/cp404). Or you can fork this repository, do some changes and make pull request to this repository.
+How you can contribute to ForkBounce Archive:
+- You can contact to me by any of methods [here](https://e-z.bio/cp404).
+- You can fork this repository, do some changes and make pull request to this repository.
+- You can make issue in this repository and write suggestion to add any custom build.
 
-## Issues
-
-If you have some issues with one of this custom bulds, please create issue in this repository or contact to me.
-
-## License warning
- Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
- 
-Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
-GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.html
-
-
-
-### Reason of fork
-FakeBounce repo is no longer updatable, so we created fork of that repository
-</div>
-
-
-### Forks List:
-- AimWhere: [.jar File](AimWhere/AimWhere-050521.jar) Backdoored 
+### List of LiquidBounce custom builds
+- AimWhere: [.jar File](AimWhere/AimWhere-050521.jar) (Backdoored)
 - AtField: [Source Code](AtField/AtField-1.3-OpenSource.zip), [Deobfuscated jar](AtField/AtField-v1.3-deobf.jar), [Cracked jar](AtField/AtFiled%201.3%20Cracked.jar)
 - Aurora: [Crack b3.1](Aurora/Aurora%20b3.1-Cracked.jar)
 - Autumn: [Crack](Autumn0811%20Cracked.zip)
