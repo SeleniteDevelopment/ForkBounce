@@ -47,7 +47,7 @@ How you can contribute to ForkBounce Archive:
 - [CrazyBounce](CrazyBounce/CrazyBounce%20Crack.jar)
 - [Ctrl](Ctrl/Ctrl-b17-Cracked.jar)
 - [DayZay](DayZay/README.md)
-- Demon Client: [V0.2 Public](Demon/Demon%20v0.2%20.rar), [V0.1 Public](Demon/Demon%20v0.1%20.jar)(Use translator in instructions)
+- Demon Client: [V0.2 Public](Demon/Demon%20v0.2%20.rar), [V0.1 Public](Demon/Demon v0.2 .rar)(Use translator in instructions)
 - DineTire: [Free](DineTire_FREE.jar) & [Latest leaked (b2)](DineTire/DineTire-b2.jar)
 - [EvoBounce](EvoBounce/EvoBouncev4-1.jar)
 - [ExSense](ExSense/EX10.16Fix.zip)
