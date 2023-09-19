@@ -2,7 +2,8 @@
 
 # ForkBounce Archive
 Fork of FakeBounce Killer repository. \
-It's represents collection of public (or not) custom builds I found on Internet or archived by own.
+It's represents collection of public (or not) custom builds I found on Internet or archived by own. \
+Support, news & updates discord server [here](https://dsc.gg/selenite)
 
 ### License warning
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, \
@@ -11,6 +12,7 @@ It's represents collection of public (or not) custom builds I found on Internet 
 Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
 GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.html \
 If you see there any **closed source code** liquidbounce fork there, it **doesn't means** I support it.
+
 
 ### Malware warning
 Forks of LiquidBounce project can have **trojans**, **malware** or **R.A.T** (Remote access trojan).\
