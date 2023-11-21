@@ -53,6 +53,7 @@ How you can contribute to ForkBounce Archive:
 - [DayZay](DayZay/README.md)
 - [DeadTable](DeadTable/DeadTable%20(MBars).rar)
 - Demon Client: [V0.2 Public](Demon/Demon%20v0.2%20.rar), [V0.1 Public](Demon/Demon%20v0.2%20.rar)(Use translator in instructions)
+- [Digma](Digma/Digma%20v0.4.rar)
 - DineTire: [Free](DineTire/DineTire_FREE.jar), [Latest leaked source code (b2)](DineTire/DineTire-B2-src.zip) & [Beta Public](DineTire/DineTire-B3.2.jar)
 - [EvoBounce](EvoBounce/EvoBouncev4-1.jar)
 - [ExSense](ExSense/EX10.16Fix.zip)
