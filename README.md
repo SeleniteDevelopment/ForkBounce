@@ -64,7 +64,7 @@ How you can contribute to ForkBounce Archive:
 - [H2W](H2W/H2W.jar)
 - [HazelSense](HazelSense/hazelsense.cracked.by.asiangirl.jar)
 - [Hreith](Hreith/Hreith%20-%20C.jar)
-- [KainoSense](KainoSense/README.md)
+- KyinoSense: [16.11 Cracked](KyinoSense/KyinoClient-B16.11FIX.jar), [17.1 Cracked](KyinoSense/KyinoClient-B17.1-Cracked.jar)
 - [LBounce](LBounce/README.md)
 - [LavaBounce](Lavabounce/lavabounce-b11.jar)
 - LiKingSense: [Crack](LiKingSense/LiKingSense-crack.jar), [Deobfuscated jar file](LiKingSense/LiKingSense-deobf.jar), [Source code](LiKingSense/LiKingSense-opensource.zip)
