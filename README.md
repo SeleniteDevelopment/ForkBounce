@@ -76,7 +76,7 @@ How you can contribute to ForkBounce Archive:
 - [LiquidLose](LiquidLose/LiquidLose.jar)
 - [LiquidPlus Modified](LiquidPlus-Modified/output_yTWEr2.tar.gz)
 - [LiquidSense++++](LiquidSense++++/README.md) (Lost)
-- LiquidSense: [B5.2 Uncracked](LiquidSense/LiquidSense-b5.2.jar), [B8 Uncracked](LiquidSense1.8.9B8.jar), [Source code leak](LiquidSense-src-main.zip), [B1 1.12.2 Source code](LiquidSense/LiquidSense1.12.2-B1-SRC.zip)
+- LiquidSense: [B5.2 Uncracked](LiquidSense/LiquidSense-b5.2.jar), [B8 Uncracked](LiquidSense/LiquidSense1.8.9B8.jar), [Source code leak](LiquidSense-src-main.zip), [B1 1.12.2 Source code](LiquidSense/LiquidSense1.12.2-B1-SRC.zip)
 - LiquidShadow: [.jar File](LiquidShadow/LiquidShadow.jar), [Legacy source code](LiquidShadow/LiquidShadowLegacy-normal.zip), [Main source code](LiquidShadow/LiquidShadow-main.zip)
 - LRQ aka. Yeion: [in 0.9s Crack](LRQ%28Yeion%29/LRQ%20Cracked%20in%200.9s.jar), [Source Code](LRQ%28Yeion%29/LRQ-OpenSource.zip), [Leak](LRQ%28Yeion%29-Leak-Crack-OpenSource.zip)
 - [LiquidWare](LiquidWare/LiquidWare.jar)
