@@ -33,6 +33,11 @@ How you can contribute to ForkBounce Archive:
 - You can fork this repository, do some changes and make pull request to this repository.
 - You can make issue in this repository and write suggestion to add any custom build.
 
+List of already contributed users:
+- [BoneShadow](https://git.disroot.org/Boneshadow)
+- [7sgreed](https://git.disroot.org/7sgreed)
+- autumn 
+
 ### List of LiquidBounce custom builds
 - AimWhere: [.jar File](AimWhere/AimWhere-050521.jar) (Backdoored)
 - AtField: [Source Code](AtField/AtField-1.3-OpenSource.zip), [Deobfuscated jar](AtField/AtField-v1.3-deobf.jar), [Cracked jar](AtField/AtFiled%201.3%20Cracked.jar)
