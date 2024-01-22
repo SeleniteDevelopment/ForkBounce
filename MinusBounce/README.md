@@ -3,8 +3,8 @@
 # MinusBounce
 A free forge hacked-client for Minecraft supporting version 1.8.9
 
-MinusBounce jars: [Release](minusbounce-release.jar) & [Beta](minusbounce-beta.jar)
-Source code: [Backuped](MinusBounce-0.2.1.zip) | [Repository](https://github.com/MinusMC/MinusBounce/)
+MinusBounce jars: [Release](minusbounce-release.jar) & [Beta](minusbounce-beta.jar) \
+Source code: [Backuped](MinusBounce-0.2.1.zip) | [Repository](https://github.com/MinusMC/MinusBounce/) \
 Website: https://minusbounce.lol \
 Discord: https://discord.gg/minusbounce
 
