@@ -1,13 +1,14 @@
-<div align="center">
+<img src="logo.png" width="700" height="400" />
 
-# ForkBounce Archive
-The fork of the Forkbounce Archive is a fork of the FakeBounce Killer repository. \
-It represents a collection of public or non-public custom builds / forks of LiquidBounce open source project that we found on the Internet or have archived ourselves. \
-Support, news & updates discord server [here](https://dsc.gg/selenite)
+<details>
+<summary>
+
+### Warnings, please read before downloading.
+
+</summary>
 
 
-## DISCLAIMERS
-### License warning
+#### License warning
 
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, \
  which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source code**.
@@ -17,17 +18,17 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 If you see there any **closed source code** liquidbounce fork there, it **doesn't means** we support it development.
 
 
-### Malware warning
+#### Malware warning
 The forks / custom builds of LiquidBounce project may contain **malware**, **trojans**, or **R.A.T.** (Remote Access Trojan) that can be hidden using obfuscation techniques.\
  If you found something in one of this custom builds / forks, please create issue in this repository or contact with me.\
 Please don't send proofs like VirusTotal scan or other AV, they ofthen have false detections. \
 Please send screenshot of source with malware code
+</details>
 
 ### Issues
 
 If you have some issues with one of this custom bulds, please create issue in this repository. \
 Or you can contact to us by [discord](https://dsc.gg/selenite)
-</div>
 
 ### Contributing
 
@@ -35,11 +36,6 @@ How you can contribute to ForkBounce Archive:
 - You can contact to us by discord server.
 - You can fork this repository, do some changes and make pull request to this repository.
 - You can make issue in this repository and write suggestion to add any custom build.
-
-List of already contributed users:
-- [BoneShadow](https://git.disroot.org/Boneshadow)
-- [7sgreed](https://git.disroot.org/7sgreed)
-- autumn 
 
 ### Terminology
 
