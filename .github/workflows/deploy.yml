@@ -3,7 +3,7 @@ name: Deploy Static Site
 on:
   push:
     branches:
-      - main  # Replace with your default branch
+      - nextgen  # Replace with your default branch
 
 jobs:
   deploy:
