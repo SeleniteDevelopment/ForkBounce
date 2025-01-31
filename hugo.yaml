@@ -1,0 +1,108 @@
+baseURL: "https://SeleniteDevelopment.github.io"
+title: Forkbounce Archive
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ForkBounce Archive
+  description: "Collection of public (or not) forks / custom builds of LiquidBounce. Please, before using it, check by yourself for any malware inside it. Suggest any custom build in my dm or Issues of this repository."
+  keywords: [Selenite, Forkbounce, Liquidbounce, Custom build, FDP Client, Liquidbounce Plus, Liquidbounce Plus Reloaded,]
+  author: ["kittyneverdies", "CatsPnewed", "velocities"]
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:    favicon: "/favicon/favicon.png"
+  label:
+    text: "Forkbounce"
+    icon: /favicon/favicon.png
+    iconHeight: 35
+  profileMode:
+    enabled: false 
+    title: Forkbounce Archive
+    subtitle: "Collection of public (or not) forks / custom builds of LiquidBounce."
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Welcome \U0001F44B"
+    Content: A fork of the Forkbounce.Archive is a fork of the FakeBounce Killer repository. It represents a collection of public or non-public custom builds / forks of LiquidBounce open source project that we found on the Internet or have archived ourselves.
+
+  socialIcons:
+    - name: discord
+      url: "https://dsc.gg/selenite"
+    - name: github
+      url: "https://github.com/SeleniteDevelopment/Forkbounce"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: builds
+      name: Downloads
+      url: /builds/
+      weight: 10
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
