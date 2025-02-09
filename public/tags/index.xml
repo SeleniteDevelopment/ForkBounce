@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 15:43:07 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <title>Custom-Build</title>
+      <link>http://localhost:1313/tags/custom-build/</link>
+      <pubDate>Sun, 09 Feb 2025 15:43:07 +0000</pubDate>
+      <guid>http://localhost:1313/tags/custom-build/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liquidbounce</title>
+      <link>http://localhost:1313/tags/liquidbounce/</link>
+      <pubDate>Sun, 09 Feb 2025 15:43:07 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liquidbounce/</guid>
       <description></description>
     </item>
   </channel>
