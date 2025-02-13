@@ -1,4 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# Unified workflow for building and deploying a Hugo site to GitHub Pages with LFS support
 name: Deploy Hugo site to Pages
 
 on:
@@ -40,11 +40,12 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
+      - name: Checkout (with LFS)
         uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
+          lfs: true  # Ensures LFS files are fetched
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
